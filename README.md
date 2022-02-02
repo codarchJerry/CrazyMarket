@@ -6,8 +6,3 @@ Linked List
 Queue
 
 Node
-
-Java Color Usage
-
-
-
